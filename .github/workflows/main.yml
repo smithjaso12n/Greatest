@@ -1,4 +1,4 @@
-name: RDP
+name: Greatest
 
 on:
   workflow_dispatch:
